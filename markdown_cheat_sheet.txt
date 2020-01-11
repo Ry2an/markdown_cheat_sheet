@@ -2,9 +2,14 @@
 title: Markdown Cheat Sheet
 date: 1994-10-10 11:07:29
 tags:
+mathjax: true
 ---
 
-# Markdown Cheat Sheet
+This page contains most markdown formats.
+
+original text could be seen at:
+
+https://github.com/Ry2an/markdown_cheat_sheet/blob/master/markdown_cheat_sheet.txt
 
 我展示的是一级标题
 =================
@@ -167,10 +172,17 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 
 \*\* 正常显示星号 \*\*
 
----------------------------
 
-<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+--------------------------
 
-$$\textrm{Soma Size}_i = \beta_0 +\beta_1\*\textrm{Fatty Acid treatment}_i +\xi_i$$
+$$\textrm{Soma Size}_i = \beta_0 +\beta_1*\textrm{Fatty Acid treatment}_i +\xi_i$$
+
+$a + b$
+
+$a+b$
+
+$$a + b$$
 
 $$a+b$$
+
+-------------------------------

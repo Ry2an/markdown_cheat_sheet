@@ -179,7 +179,7 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 
 --------------------------
 
-$$\textrm{Soma Size}_i = \beta_0 +\beta_1*\textrm{Fatty Acid treatment}_i +\xi_i$$
+$$\textrm{Soma Size}_i = \beta_0 +\beta_1\*\textrm{Fatty Acid treatment}_i +\xi_i$$
 
 $a + b$
 
